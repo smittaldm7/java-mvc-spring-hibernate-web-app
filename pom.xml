@@ -154,7 +154,7 @@
 	</dependencies>
 
   <properties>
-    <org.springframework-version>5.1.9.RELEASE</org.springframework-version> <!-- wanted Spring version -->
+    <org.springframework-version>5.3.18</org.springframework-version> <!-- wanted Spring version -->
     <hibernate.version>5.4.4.Final</hibernate.version> <!-- wanted Hibernate version -->
     <org.aspectj-version>1.9.2</org.aspectj-version>
     <org.slf4j-version>1.7.28</org.slf4j-version>
